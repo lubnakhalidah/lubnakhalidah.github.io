@@ -1,0 +1,17 @@
+.activeLink {
+  color: #686868;
+  font-size: 16px;
+  font-weight: "bold";
+  text-decoration: "none";
+  background-color: "lightgray";
+  padding: "10px";
+  margin: "5px";
+  border-radius: "5px";
+  box-shadow: "2px 2px 5px gray";
+}
+/* .activeLink:hover,
+.activeLink::after {
+  color: #000000;
+  font-weight: bold;
+  background-color: rgba(199, 197, 197, 50);
+} */
